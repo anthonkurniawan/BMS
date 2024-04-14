@@ -1,0 +1,168 @@
+[06-Apr-2024 02:55:32 Asia/Jakarta] PHP Fatal error:  Call to undefined function getSumProgress() in C:\WEB\BMS3\historian.php on line 21
+[06-Apr-2024 03:16:03 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 646
+[06-Apr-2024 04:30:23 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 607
+[06-Apr-2024 04:33:02 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 608
+[06-Apr-2024 04:34:12 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 608
+[06-Apr-2024 21:14:34 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 609
+[06-Apr-2024 21:14:36 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 609
+[06-Apr-2024 21:14:42 Asia/Jakarta] PHP Catchable fatal error:  Object of class ADODB_pdo could not be converted to string in C:\WEB\BMS3\db.php on line 30
+[06-Apr-2024 21:15:13 Asia/Jakarta] PHP Catchable fatal error:  Object of class ADODB_pdo could not be converted to string in C:\WEB\BMS3\db.php on line 30
+[06-Apr-2024 21:16:35 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 609
+[06-Apr-2024 21:16:52 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 609
+[06-Apr-2024 21:21:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$connect' (T_VARIABLE) in C:\WEB\BMS3\db.php on line 33
+[06-Apr-2024 21:26:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$host' (T_VARIABLE), expecting function (T_FUNCTION) in C:\WEB\BMS3\db.php on line 5
+[07-Apr-2024 00:15:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$port' (T_VARIABLE), expecting function (T_FUNCTION) in C:\WEB\BMS3\db.php on line 6
+[07-Apr-2024 00:16:02 Asia/Jakarta] PHP Fatal error:  Call to undefined function getDb() in C:\WEB\BMS3\function.php on line 516
+[07-Apr-2024 00:20:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in C:\WEB\BMS3\function.php on line 517
+[07-Apr-2024 00:23:03 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'connect' in C:\WEB\BMS3\function.php on line 519
+[07-Apr-2024 00:23:47 Asia/Jakarta] PHP Strict Standards:  Non-static method Db::connect() should not be called statically in C:\WEB\BMS3\function.php on line 519
+[07-Apr-2024 00:23:47 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in C:\WEB\BMS3\db.php on line 16
+[07-Apr-2024 00:24:03 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in C:\WEB\BMS3\db.php on line 16
+[07-Apr-2024 00:24:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM) in C:\WEB\BMS3\function.php on line 519
+[07-Apr-2024 00:25:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in C:\WEB\BMS3\function.php on line 519
+[07-Apr-2024 00:30:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in C:\WEB\BMS3\function.php on line 519
+[07-Apr-2024 00:30:28 Asia/Jakarta] PHP Fatal error:  Call to undefined function Db() in C:\WEB\BMS3\function.php on line 517
+[07-Apr-2024 00:30:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in C:\WEB\BMS3\function.php on line 519
+[07-Apr-2024 00:30:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in C:\WEB\BMS3\function.php on line 519
+[07-Apr-2024 00:34:13 Asia/Jakarta] PHP Fatal error:  Call to undefined function Db() in C:\WEB\BMS3\function.php on line 517
+[07-Apr-2024 00:34:26 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in C:\WEB\BMS3\db.php on line 16
+[07-Apr-2024 00:35:50 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in C:\WEB\BMS3\db.php on line 17
+[07-Apr-2024 00:37:31 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'host' in C:\WEB\BMS3\db.php on line 17
+[07-Apr-2024 00:37:53 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'host' in C:\WEB\BMS3\db.php on line 17
+[07-Apr-2024 00:39:47 Asia/Jakarta] PHP Fatal error:  Cannot access protected property Db::$host in C:\WEB\BMS3\function.php on line 518
+[07-Apr-2024 00:40:03 Asia/Jakarta] PHP Strict Standards:  Accessing static property Db::$host as non static in C:\WEB\BMS3\function.php on line 518
+[07-Apr-2024 00:40:20 Asia/Jakarta] PHP Fatal error:  Cannot access private property Db::$host in C:\WEB\BMS3\function.php on line 518
+[07-Apr-2024 00:42:37 Asia/Jakarta] PHP Fatal error:  Cannot access private property Db::$host in C:\WEB\BMS3\function.php on line 518
+[07-Apr-2024 00:43:03 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'host' in C:\WEB\BMS3\db.php on line 16
+[07-Apr-2024 00:53:03 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 00:53:16 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 00:55:57 Asia/Jakarta] PHP Fatal error:  Call to undefined function getDb() in C:\WEB\BMS3\function.php on line 276
+[07-Apr-2024 00:56:11 Asia/Jakarta] PHP Fatal error:  Call to undefined function getDb() in C:\WEB\BMS3\login.php on line 47
+[07-Apr-2024 00:58:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$rs' (T_VARIABLE) in C:\WEB\BMS3\function.php on line 526
+[07-Apr-2024 02:53:01 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 02:53:40 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 02:53:46 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 02:53:53 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 02:54:18 Asia/Jakarta] PHP Fatal error:  Call to a member function Connect() on a non-object in C:\WEB\BMS3\db.php on line 17
+[07-Apr-2024 02:54:33 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 02:54:55 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 02:55:02 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 02:55:09 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 02:55:16 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 02:55:24 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 02:55:30 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 02:55:37 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 02:55:44 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 02:55:51 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 02:56:02 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 02:56:18 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 02:57:10 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 02:57:17 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 02:57:24 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 02:57:31 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 02:57:38 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 02:57:46 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 02:57:52 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 02:57:59 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 02:58:06 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 02:58:24 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 02:58:27 Asia/Jakarta] PHP Notice:  Undefined index: lastactivity in C:\WEB\BMS3\verifyLogin.php on line 9
+[07-Apr-2024 02:58:34 Asia/Jakarta] PHP Notice:  Undefined index: lastactivity in C:\WEB\BMS3\verifyLogin.php on line 9
+[07-Apr-2024 02:58:41 Asia/Jakarta] PHP Notice:  Undefined index: lastactivity in C:\WEB\BMS3\verifyLogin.php on line 9
+[07-Apr-2024 02:58:41 Asia/Jakarta] PHP Fatal error:  Call to a member function prepare() on a non-object in C:\WEB\BMS3\lib\adodb5\drivers\adodb-pdo.inc.php on line 456
+[07-Apr-2024 03:03:40 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 03:03:47 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 03:03:54 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 03:04:02 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 03:04:08 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 614
+[07-Apr-2024 03:04:15 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 613
+[07-Apr-2024 03:04:22 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 613
+[07-Apr-2024 03:04:29 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 613
+[07-Apr-2024 03:48:16 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 03:48:22 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 03:48:30 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 03:48:37 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 03:48:44 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 03:48:50 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 03:48:57 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 03:49:04 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 03:49:12 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 03:49:19 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 03:49:26 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 03:50:27 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 03:50:31 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 03:51:31 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 03:52:31 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 03:53:31 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 03:54:31 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 03:55:31 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 03:56:31 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 03:57:31 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 03:58:31 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 03:59:31 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 04:00:31 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 04:01:31 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 04:02:31 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 04:03:31 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 04:26:17 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 04:34:34 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 04:34:35 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[07-Apr-2024 04:34:43 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:38:21 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:38:28 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:38:35 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:38:42 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:38:49 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:38:56 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:39:03 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:39:10 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:39:17 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:39:24 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:39:31 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:39:38 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:39:45 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:39:52 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:39:58 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:40:05 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:40:12 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:40:19 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:40:26 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:40:33 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:40:41 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:40:48 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:40:55 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:41:02 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:41:09 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:41:15 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:41:23 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:41:30 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:41:37 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:41:44 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:41:51 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:41:58 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:42:05 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:42:12 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:42:19 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:42:26 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:42:33 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:42:40 Asia/Jakarta] PHP Fatal error:  Call to a member function SetFetchMode() on a non-object in C:\WEB\BMS3\function.php on line 615
+[08-Apr-2024 01:42:47 Asia/Jakarta] PHP Fatal error:  Call to a member function _Execute() on a non-object in C:\WEB\BMS3\function.php on line 631
+[08-Apr-2024 01:42:54 Asia/Jakarta] PHP Fatal error:  Call to a member function _Execute() on a non-object in C:\WEB\BMS3\function.php on line 631
+[08-Apr-2024 01:43:01 Asia/Jakarta] PHP Fatal error:  Call to a member function _Execute() on a non-object in C:\WEB\BMS3\function.php on line 631
+[08-Apr-2024 01:43:08 Asia/Jakarta] PHP Fatal error:  Call to a member function _Execute() on a non-object in C:\WEB\BMS3\function.php on line 631
+[08-Apr-2024 01:43:15 Asia/Jakarta] PHP Fatal error:  Call to a member function _Execute() on a non-object in C:\WEB\BMS3\function.php on line 631
+[08-Apr-2024 01:44:04 Asia/Jakarta] PHP Fatal error:  Call to a member function _Execute() on a non-object in C:\WEB\BMS3\function.php on line 631
+[08-Apr-2024 01:44:11 Asia/Jakarta] PHP Fatal error:  Call to a member function _Execute() on a non-object in C:\WEB\BMS3\function.php on line 631
+[08-Apr-2024 01:44:18 Asia/Jakarta] PHP Fatal error:  Call to a member function _Execute() on a non-object in C:\WEB\BMS3\function.php on line 631
+[08-Apr-2024 01:44:25 Asia/Jakarta] PHP Fatal error:  Call to a member function _Execute() on a non-object in C:\WEB\BMS3\function.php on line 631
+[08-Apr-2024 01:44:32 Asia/Jakarta] PHP Fatal error:  Call to a member function _Execute() on a non-object in C:\WEB\BMS3\function.php on line 631
+[08-Apr-2024 01:44:39 Asia/Jakarta] PHP Fatal error:  Call to a member function _Execute() on a non-object in C:\WEB\BMS3\function.php on line 631
+[08-Apr-2024 01:44:46 Asia/Jakarta] PHP Fatal error:  Call to a member function _Execute() on a non-object in C:\WEB\BMS3\function.php on line 631
+[08-Apr-2024 01:44:53 Asia/Jakarta] PHP Fatal error:  Call to a member function _Execute() on a non-object in C:\WEB\BMS3\function.php on line 631
+[08-Apr-2024 01:45:00 Asia/Jakarta] PHP Fatal error:  Call to a member function _Execute() on a non-object in C:\WEB\BMS3\function.php on line 631
+[08-Apr-2024 01:45:07 Asia/Jakarta] PHP Fatal error:  Call to a member function _Execute() on a non-object in C:\WEB\BMS3\function.php on line 631
+[08-Apr-2024 01:45:14 Asia/Jakarta] PHP Fatal error:  Call to a member function _Execute() on a non-object in C:\WEB\BMS3\function.php on line 631
+[08-Apr-2024 01:45:21 Asia/Jakarta] PHP Fatal error:  Call to a member function _Execute() on a non-object in C:\WEB\BMS3\function.php on line 631
+[08-Apr-2024 01:45:28 Asia/Jakarta] PHP Fatal error:  Call to a member function _Execute() on a non-object in C:\WEB\BMS3\function.php on line 631
+[08-Apr-2024 22:39:07 Asia/Jakarta] PHP Fatal error:  Call to a member function getArray() on a non-object in C:\WEB\BMS3\api.php on line 222
+[08-Apr-2024 22:39:14 Asia/Jakarta] PHP Fatal error:  Call to a member function getArray() on a non-object in C:\WEB\BMS3\api.php on line 222
